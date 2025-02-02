@@ -1360,7 +1360,7 @@ boolean result = (5 > 2) && (10 > 5); // true && true → true
 
 Возвращает `true`, если **хотя бы один** операнд `true`.
 
-| A | B | A `||` B |
+| A | B | A `\|``\|` B |
 | --- | --- | --- |
 | `true` | `true` | `true` |
 | `true` | `false` | `true` |
